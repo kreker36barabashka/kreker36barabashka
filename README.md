@@ -1,17 +1,16 @@
-# Giới thiệu
-Chào mừng bạn đến với hồ sơ của tôi! Tôi là một lập trình viên với nhiều năm kinh nghiệm trong phát triển phần mềm.
+# kreker36barabashka
 
-# Kỹ năng
-- JavaScript
-- Python
-- React
-- Node.js
-- HTML & CSS
+**Thema:** cybersecurity
 
-# Dự án
-- **Dự án 1**: Ứng dụng quản lý công việc
-- **Dự án 2**: Trang web thương mại điện tử
+## Über mich
+Fokus auf cybersecurity.
 
-# Liên hệ
-- Email: kreker36barabashka@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kreker36barabashka)
+## Tech
+- Python · Git · CI/CD
+- - security
+- cybersecurity
+- infosec
+- pentest
+
+## Links
+- Profil: https://github.com/kreker36barabashka
